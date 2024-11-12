@@ -1,0 +1,23 @@
+{
+  "start": {
+    "message": "\uD83C\uDF81 Here you can buy and send gifts to your friends.",
+    "button": "Open App"
+  },
+  "send_gift": {
+    "title": "Send Gift",
+    "subtitle": "Send a gift of { name }",
+    "message": "\uD83C\uDF81 I have a <b>gift</b> for you! Tab the button below to open it.",
+    "button": "Receive Gift"
+  },
+  "purchased_gift": {
+    "message": "✅ You have purchased the gift of <b>{ name }</b>.",
+    "button": "Open Gifts"
+  },
+  "received_gift": {
+    "message": "\uD83D\uDC4C <b>{ fullName }</b> has received your gift of <b>{ name }</b>.",
+    "button": "Open App"
+  },
+  "gift_invoice": {
+    "message": "Purchasing a { name } gift"
+  }
+}
